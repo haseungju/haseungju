@@ -5,14 +5,14 @@
 
 <div align="center">
 
-### 👋 안녕하세요! 저는 AI/데이터 기반 서비스 개발을 지향하는 개발자입니다.  
+### 👋 안녕하세요! 저는 데이터분석/AI개발을 목표로 나아가고 있습니다.
 Healthcare AI 🩺 | LLM 기반 챗봇 🤖 | Behavior Recognition 🎯 | Recommendation System 📊
 
 ---
 
-🎓 **Bachelor of Industrial Engineering & Applied Artificial Intelligence**  
+🎓 **Bachelor of Industrial Engineering**  
 📍 **대한민국, Korea**  
-📧 Email: your-email@example.com
+📧 Email: hasi0405@naver.com
 
 </div>
 
@@ -77,8 +77,8 @@ Healthcare AI 🩺 | LLM 기반 챗봇 🤖 | Behavior Recognition 🎯 | Recomm
 
 ## 💡 Contact
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [your-linkedin-url]
+- 📧 Email: hasi0405@naver.com
+- 💼 LinkedIn:
 
 ---
 
