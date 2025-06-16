@@ -52,7 +52,6 @@ Healthcare AI 🩺 | LLM 기반 챗봇 🤖 | Behavior Recognition 🎯 | Recomm
 | **Emoting: Facial & Pose Behavior Recognition** | 얼굴 표정 (CNN), 자세 인식 (Mediapipe+XGBoost) 기반 실시간 감정 분석 | [🔗 Emoting](https://github.com/haseungju/Emoting_Emotional_Recognition) |
 | **YakTalk: 약물 상담 AI 챗봇** | 500개 의약품 데이터 기반 RAG 시스템 / 부작용 응급도 평가 | [🔗 YakTalk](https://github.com/haseungju/Medicine_Chat) |
 | **MedDose AI 개선 프로젝트** | 의미 청크 기반 검색 / LLM 직접 호출 / 검색 정확도 개선 | - (Private Work In Progress) |
-| **서울 여행 AI 비서** | 실시간 코스 추천, 날씨·경로 반영 AI 여행 플래너 | - (Private Project) |
 | **EDA 기반 공정개선 프로젝트** | 제조 공정 이상탐지 및 개선방안 도출 | [🔗 Pipeline Process](https://github.com/haseungju/Pipeline_Process_Improvement) |
 | **보험상품 예측 모델링** | 보험 데이터 기반 머신러닝 예측 모델 실습 | [🔗 EIM Prediction](https://github.com/haseungju/EIM_Prediction) |
 
