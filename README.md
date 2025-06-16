@@ -8,7 +8,7 @@
 ## 👋 Hi, I'm Seungju Ha!
 
 🎯 AI Developer / Data Analyst / Prompt Engineer  
-🧬 Healthcare AI | 💊 Medical Chatbot | 🧠 Behavior Recognition | 🏞️ Travel AI Assistant
+🧬 Healthcare AI | 💊 Medical Chatbot | 🧠 Behavior Recognition
 
 </div>
 
