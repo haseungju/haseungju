@@ -59,7 +59,7 @@
 | **Emoting: 실시간 표정/자세 인식으로 감정 예측** | 얼굴 표정 (CNN), 자세 인식 (Mediapipe+XGBoost) 기반 실시간 감정 분석 | [🔗 Emoting](https://github.com/haseungju/Emoting_Emotinal_Recognition) |
 | **YakTalk: 약물 상담 AI 챗봇** | 500개 의약품 데이터 기반 RAG 시스템 / 부작용 응급도 평가 | [🔗 YakTalk](https://github.com/haseungju/Medicine_Chat) |
 | **BMI예측 프로젝트** | 생체데이터 기반 BMI예측 / 키, 몸무게 제외한 생체데이터와 BMI 간의 인과관계 분석 | [🔗 BMI Prediction](https://github.com/haseungju/BMI_Prediction) |
-| **공정개선 프로젝트** | 제조 공정 이상탐지 및 개선방안 도출 [🔗 Pipeline Process](https://github.com/haseungju/Pipeline_Process_Improvement) |
+| **공정개선 프로젝트** | 제조 공정 이상탐지 및 개선방안 도출 |  [🔗 Pipeline Process](https://github.com/haseungju/Pipeline_Process_Improvement) |
 ---
 
 ## 📊 GitHub Stats
