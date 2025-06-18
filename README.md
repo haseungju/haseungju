@@ -20,7 +20,7 @@
 - LLM 기반 챗봇, RAG 시스템, 컴퓨터비전 실시간 감정인식, 데이터 분석 중심으로 실전 경험 축적
 - **데이터 수집 → 전처리 → 모델 설계 → 추론 시스템까지** End-to-End 프로젝트 수행 역량 보유
 - 끊임없이 공부하고 나아가는 데이터분석/AI개발자
-- 🎓 Bachelor of Industrial Engineering & Applied Artificial Intelligence
+- 🎓 Bachelor of Industrial Engineering
 
 ---
 
